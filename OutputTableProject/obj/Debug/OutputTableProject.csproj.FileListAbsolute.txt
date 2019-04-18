@@ -1,0 +1,17 @@
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.csprojAssemblyReference.cache
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.Main.resources
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.Properties.Resources.resources
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.csproj.GenerateResource.cache
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.csproj.CoreCompileInputs.cache
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\ExcelDataReader.dll
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\ExcelDataReader.xml
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OutputTableProject.csproj.CopyComplete
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\EPPlus.dll
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\EPPlus.xml
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\OTproject.exe.config
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\OTproject.exe
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\bin\Debug\OTproject.pdb
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OTproject.exe
+C:\Users\ToughG\source\repos\OutputTableProject\OutputTableProject\obj\Debug\OTproject.pdb
